@@ -1,0 +1,9 @@
+
+Sitecore\.Extensions\.Items/\.vs/
+
+Sitecore\.Extensions\.Items/packages/
+
+bin/
+obj/
+
+*.user
